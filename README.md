@@ -1,2 +1,1 @@
-C.U.P.
-(Christian Untiedt Projects)
+My personal projects
